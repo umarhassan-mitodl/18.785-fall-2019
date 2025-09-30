@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2019",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "2d477b85-6656-5f73-084f-123a74ca6941",
+  "instructors": {
+    "content": [
+      "2bd46f89-da99-8df3-5ac3-14ac12789f96"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "83d5ba77-3f50-243b-1d86-b055847e1087",
+    "website": "18-785-number-theory-i-fall-2019"
+  },
+  "course_title": "Number Theory I",
+  "hide_download": true,
+  "course_description": "This is the first semester of a one-year graduate course in number theory covering standard topics in algebraic and analytic number theory. At various points in the course, we will make reference to material from other branches of mathematics, including topology, complex analysis, representation theory, and algebraic geometry.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.785",
+  "course_image_thumbnail": {
+    "content": "1800809a-a6cd-9261-9145-4e1ed0a732c6",
+    "website": "18-785-number-theory-i-fall-2019"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Open Textbooks"
+  ],
+  "site_uid": "0a87e2bc-7bc8-4fee-92f9-47119c1df35a",
+  "site_short_id": "18.785-fall-2019",
+  "site_url_path": "courses/18-785-number-theory-i-fall-2019",
+  "title": "Course Metadata"
+}
