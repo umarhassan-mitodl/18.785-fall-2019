@@ -26,7 +26,6 @@
     "website": "18-785-number-theory-i-fall-2019"
   },
   "course_title": "Number Theory I",
-  "hide_download": true,
   "course_description": "This is the first semester of a one-year graduate course in number theory covering standard topics in algebraic and analytic number theory. At various points in the course, we will make reference to material from other branches of mathematics, including topology, complex analysis, representation theory, and algebraic geometry.\n",
   "department_numbers": [
     "18"
@@ -37,7 +36,6 @@
     "content": "1800809a-a6cd-9261-9145-4e1ed0a732c6",
     "website": "18-785-number-theory-i-fall-2019"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",
